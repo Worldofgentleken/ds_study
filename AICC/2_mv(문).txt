@@ -1,0 +1,19 @@
+1. ~/mvtest 디렉토리와  ~/mvlinux 디렉토리를 생성하세요
+
+2. /etc/passwd를 ~/mvtest 밑으로 복사하세요
+
+3. ~/mvtest에 passwd를 ~/mvlinux로 이동하세요
+
+4. /etc/passwd를 ~/mvtest 밑으로 복사하세요
+
+5. ~/mvtest에 passwd를 ~/mvlinux로 이동하세요 (덮어쓸꺼냐고 물어보면 n 누르세요)
+
+6. ~/mvtest에 passwd를 ~/mvlinux로 이동하세요. (-f 옵션사용)
+
+7. /etc/passwd를 ~/mvtest 밑으로 복사하세요
+
+8. ~/mvtest밑에 있는 passwd를 -b옵션을 써서 ~/mvlinux에 이동하세요.
+
+9. ~/mvlinux에 있는 passwd 파일의 이름을 1로 바꾸세요
+
+10. ~/mvlinux에 있는 1파일을 숨김파일로 만드세요
